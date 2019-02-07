@@ -1,3 +1,11 @@
+## Forked for my version of WiFi Adapter for PEN testing @ParrotOS. USB Wireless Adapter Daul Band 2.4GHz/5GHz
+#### ANEWKODI 
+
+[Amazon Link](https://www.amazon.com/ANEWKODI-600Mbps-Adapter-Wireless-433Mbps/dp/B01LEZFTYG/ref=asc_df_B01LEZFTYG/?tag=hyprod-20&linkCode=df0&hvadid=309751315916&hvpos=1o1&hvnetw=g&hvrand=3771219184417652642&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9060527&hvtargid=pla-570204773429&psc=1&tag=&ref=&adgrpid=67183599252&hvpone=&hvptwo=&hvadid=309751315916&hvpos=1o1&hvnetw=g&hvrand=3771219184417652642&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9060527&hvtargid=pla-570204773429)
+
+
+
+
 ## Realtek 802.11ac (rtl8812au)
 
 This is a fork of the Realtek 802.11ac (rtl8812au) v4.2.2 (7502.20130507)
